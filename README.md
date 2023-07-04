@@ -8,7 +8,7 @@ Group Sigma
 3. Adha Ozy Prima Dewangga
 ```
 ## Dataset
-Dataset diambil dari [kaggle]([https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis](https://www.kaggle.com/datasets/camnugent/california-housing-prices) dan dimodifikasi oleh Purwadhika
+Dataset diambil dari [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 
 # **BUSINESS UNDERSTANDING**
 ----
