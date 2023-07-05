@@ -204,6 +204,7 @@ Ketiga hal diatas, diharapkan akan berdampak terhadap meningkatnya profitabilita
  - [EXPERIMENTS SUMMARY](#EXPERIMENTS-SUMMARY)
  - [FINAL CLUSTERING CONCLUSION AND RECOMMENDATIONS](#FINAL-CLUSTERING-CONCLUSION-AND-RECOMMENDATIONS)
  - [BUSINESS IMPLEMENTATION](#BUSINESS-IMPLEMENTATION)
+ - [TABLEAU DASHBOARD](#TABLEAU-DASHBOARD)
 
 ## **DATA UNDERSTANDING**
 ----
@@ -407,7 +408,7 @@ Profit = (1000 x 1050 x 0.2) + (1000 x 50) + (1000 x 2100 x 0.02) - (1000 x 105)
 
 Oleh karena itu,<b> keuntungan bank AGO akan meningkat sebesar $ 7.000 atau 3,6% dengan meningkatkan penggunaan pengguna kartu kredit sebesar 5%</b>. Tentu saja, ini adalah contoh yang sangat disederhanakan yang tidak memperhitungkan banyak faktor lain yang dapat mempengaruhi profitabilitas kartu kredit, seperti tingkat default, biaya operasi, persaingan, regulasi, kepuasan pelanggan, dll.
 
-## **Tableau Dashboard**
+## **TABLEAU DASHBOARD**
 ----
 [Link Tableau Dashboard](https://public.tableau.com/app/profile/adha.ozy.prima.dewangga/viz/DasboardFinalProjectCreditCardCustomerAnalysis/Dashboard1?publish=yes)
 
