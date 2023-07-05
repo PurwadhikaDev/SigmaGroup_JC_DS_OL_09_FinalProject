@@ -1,5 +1,4 @@
 # **Credit Card Customer Analysis**
-Final Project
 
 
 ## **Group Sigma Profile** 
