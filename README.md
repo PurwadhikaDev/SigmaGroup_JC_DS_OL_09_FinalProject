@@ -195,3 +195,11 @@ Ketiga hal diatas, diharapkan akan berdampak terhadap meningkatnya profitabilita
 
 <p>Sumber Data : <a href="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata">Klik disini</a></p>
 <p>Data Awal Terdiri dari : 8950 Baris × 18 Kolum</p>
+
+## Daftar Isi Main Project ipynb
+ - [Data Understanding & Data Cleaning](#Data-Understanding-dan-Data-Cleaning)
+ - [Data Analysis](#Data-Analysis)
+ - [Feature selection dan Feature Engineering](#Feature-selection-dan-Feature-Engineering)
+ - [Analytics (Algorithm Evaluation Metrics)](#Analytics-(Algorithm-Evaluation-Metrics))
+ - [Conclusion and Recommendation](#Conclusion-and-Recommendation)
+ - [BUSINESS IMPLEMENTATION](#BUSINESS-IMPLEMENTATION)
