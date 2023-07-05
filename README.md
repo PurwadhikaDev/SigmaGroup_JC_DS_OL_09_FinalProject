@@ -1,6 +1,6 @@
 # **Credit Card Customer Analysis**
 Final Project
-```
+
 
 ## **Group Sigma Profile** 
 ----
@@ -9,7 +9,7 @@ Final Project
 3. Adha Ozy Prima Dewangga - adaozy81@gmail.com | [LinkedIn](https://www.linkedin.com/in/adhaozyprimadewangga/) | [GitHub](https://github.com/Markenji?tab=repositories)
 
 
-```
+
 ## Dataset
 Dataset diambil dari [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 
