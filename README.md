@@ -274,19 +274,19 @@ Faktor-faktor yang menjadi alasan pemilihan model Kmeans, yaitu:
 ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/6.png?raw=true)
 
 #### Barplot 
- - Perbandingan Pembayaran Penuh Setiap Cluster 
+ - Perbandingan Pembayaran Penuh Setiap Cluster <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/a.png?raw=true) <br>
-  - Perbandingan Usage Setiap Cluster
+  - Perbandingan Usage Setiap Cluster <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/b.png?raw=true) <br>
-  - Perbandingan Credit Limit & Balance Setiap Cluster
+  - Perbandingan Credit Limit & Balance Setiap Cluster <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/c.png?raw=true) <br>
-  - Rincian Penggunaan Kartu Kredit pada Customer 0
+  - Rincian Penggunaan Kartu Kredit pada Customer 0 <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/d.png?raw=true) <br>
-  - Rincian Penggunaan Kartu Kredit pada Customer 1
+  - Rincian Penggunaan Kartu Kredit pada Customer 1 <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/e.png?raw=true) <br>
-  - Rincian Penggunaan Kartu Kredit pada Customer 2
+  - Rincian Penggunaan Kartu Kredit pada Customer 2 <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/f.png?raw=true) <br>
-  - Rincian Penggunaan Kartu Kredit pada Customer 3
+  - Rincian Penggunaan Kartu Kredit pada Customer 3 <br>
   ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/g.png?raw=true) <br>
 
 
