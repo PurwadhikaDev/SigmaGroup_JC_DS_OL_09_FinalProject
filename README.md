@@ -1,3 +1,4 @@
+![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/wolf.png?raw=true)
 # **Credit Card Customer Analysis**
 
 
