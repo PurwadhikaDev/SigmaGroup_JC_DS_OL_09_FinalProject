@@ -383,7 +383,7 @@ Pada semua customer 3 startegi yang akan diberikan adalah sebagai berikut:
 6. Pemberian Points untuk setiap pembelajaan barang mewah seperti mobil maupun Fashion.
 7. **Target Strategi diatas diharapkan akan tetap membuat mereka semakin nyaman dan Loyal terhadap produk Bank kita.**
 
-## **6. BUSINESS IMPLEMENTATION**
+## **BUSINESS IMPLEMENTATION**
 ----
 
 **Keuntungan yang bisa didapatkan bank dari meningkatnya penggunaan pengguna kartu kredit bergantung pada beberapa faktor**, seperti:
