@@ -197,9 +197,9 @@ Ketiga hal diatas, diharapkan akan berdampak terhadap meningkatnya profitabilita
 <p>Data Awal Terdiri dari : 8950 Baris × 18 Kolum</p>
 
 ## Daftar Isi Main Project ipynb
- - [Data Understanding & Data Cleaning](#Data-Understanding-dan-Data-Cleaning)
- - [Data Analysis](#Data-Analysis)
- - [Feature selection dan Feature Engineering](#Feature-selection-dan-Feature-Engineering)
- - [Analytics (Algorithm Evaluation Metrics)](#Analytics-(Algorithm-Evaluation-Metrics))
- - [Conclusion and Recommendation](#Conclusion-and-Recommendation)
+ - [DATA UNDERSTANDING](#Data-Understanding-dan-Data-Cleaning)
+ - [DATA CLEANING & FEATURE ENGINEERING](#Data-Understanding-dan-Data-Cleaning)
+ - [MODEL EXPLORATION AND EXPERIMENTATIONS](#Data-Analysis)
+ - [EXPERIMENTS SUMMARY](#Feature-selection-dan-Feature-Engineering)
+ - [FINAL CLUSTERING, CONCLUSION & RECOMMENDATIONS](#Conclusion-and-Recommendation)
  - [BUSINESS IMPLEMENTATION](#BUSINESS-IMPLEMENTATION)
