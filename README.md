@@ -64,3 +64,15 @@ Diharapkan dengan pemodelan ini kita dapat memperoleh benefit sebagai berikut:
 * Meningkatnya Loyalitas Customer secara keseluruhan, karena dengan marketing yang lebih akurat, Customer merasakan perusahaan sangat mengayomi kebutuhan mereka, sehingga hal tersebut membuat Customer nyaman dengan produk Kartu Kredit Bank A, sehingga mereka akan terus menggunakan kartu kredit Bank A (**usage** stabil, **retensi** meningkat).
 
 Ketiga hal diatas, diharapkan akan berdampak terhadap meningkatnya profitabilitas produk Kartu Kredit Bank A secara signifikan.
+
+## **Konten Utama**
+
+#### Library
+![Pandas License](https://img.shields.io/badge/pandas-1.5.3-lightgrey)  
+![Pandas License](https://img.shields.io/badge/numpy-1.22.4-yellow)  
+![Pandas License](https://img.shields.io/badge/seaborn-0.12.2-blue)  
+![Pandas License](https://img.shields.io/badge/matplotlib-3.7.1-red)<br>
+![scikit-learn ](https://img.shields.io/badge/scikit--learn-1.2.2-coral?labelColor=grey&style=flat)<br>
+![imblearn ](https://img.shields.io/badge/scipy-1.10.1-olive?labelColor=grey&style=flat)<br>
+![category-encoders](https://img.shields.io/badge/missingno-0.5.2-emerald?labelColor=grey&style=flat)<br>
+
