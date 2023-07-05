@@ -1,11 +1,14 @@
 # **Credit Card Customer Analysis**
 Final Project
 ```
-Group Sigma
+
+## **Group Sigma Profile** 
 ----
-1. Andika Darmawan
-2. Gede Sariasa
-3. Adha Ozy Prima Dewangga
+1. Andika Darmawan - bisnisandikadarmawan@gmail.com | [LinkedIn](https://www.linkedin.com/in/andika-d-746414214/) | [GitHub](https://github.com/ginanurahmasari)
+2. Gede Sariasa - sariasa14@gmail.com | [LinkedIn](https://www.linkedin.com/in/gede-sariasa-b5a77a134/) | [GitHub](https://github.com/HerdiansyahPP)
+3. Adha Ozy Prima Dewangga - adaozy81@gmail.com | [LinkedIn](https://www.linkedin.com/in/adhaozyprimadewangga/) | [GitHub](https://github.com/Markenji?tab=repositories)
+
+
 ```
 ## Dataset
 Dataset diambil dari [kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
