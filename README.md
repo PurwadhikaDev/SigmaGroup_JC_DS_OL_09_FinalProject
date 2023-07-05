@@ -76,3 +76,122 @@ Ketiga hal diatas, diharapkan akan berdampak terhadap meningkatnya profitabilita
 ![imblearn ](https://img.shields.io/badge/scipy-1.10.1-olive?labelColor=grey&style=flat)<br>
 ![category-encoders](https://img.shields.io/badge/missingno-0.5.2-emerald?labelColor=grey&style=flat)<br>
 
+<h4>Credit Card</h4>
+<h4><b>Konteks</b></h4>
+<p>Sample Dataset merangkum perilaku penggunaan sekitar 9000 pemegang kartu kredit aktif selama 6 bulan terakhir. File tersebut berada di tingkat pelanggan dengan 18 variabel perilaku.</p>
+<h5><b>Fitur</b></h5>
+<table>
+  <tr>
+    <th>Attribute</th>
+    <th>Description</th>
+    <th>Data Type</th>
+  </tr>
+  <tr>
+    <th><b>CUST_ID</b></th>
+    <td>Identifikasi pemegang Kartu Kredit (Kategorikal).</td>
+    <td>Object</td>
+  </tr>
+      <tr>
+    <th><b>BALANCE</b></th>
+    <td>Saldo jumlah yang tersisa di akun mereka untuk melakukan pembelian.</td>
+    <td>Float64</td>
+  </tr>
+  </tr>
+      <tr>
+    <th><b>BALANCE_FREQUENCY</b></th>
+    <td>Seberapa sering Saldo diperbarui, skor antara 0 dan 1 (1 = sering diperbarui, 0 = tidak sering diperbarui).</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>PURCHASES</b></th>
+    <td>Jumlah pembelian yang dilakukan dari akun.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>ONEOFF_PURCHASES</b></th>
+    <td>Jumlah pembelian maksimum dilakukan dalam sekali jalan.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>INSTALLMENTS_PURCHASES</b></th>
+    <td>Jumlah pembelian dilakukan secara cicilan.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>CASH_ADVANCE</b></th>
+    <td>Tarik tunai dari credit card.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>PURCHASES_FREQUENCY</b></th>
+    <td>Seberapa sering Pembelian dilakukan, skor antara 0 dan 1 (1 = sering dibeli, 0 = tidak sering dibeli).</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>ONEOFFPURCHASESFREQUENCY</b></th>
+    <td>Seberapa sering Pembelian terjadi dalam sekali jalan (1 = sering dibeli, 0 = tidak sering dibeli).</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>PURCHASESINSTALLMENTSFREQUENCY</b></th>
+    <td>Seberapa sering pembelian dengan mencicil dilakukan (1 = sering dilakukan, 0 = tidak sering dilakukan).</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>CASHADVANCEFREQUENCY</b></th>
+    <td>Seberapa sering uang muka dibayarkan.</td>
+    <td>Float64</td>
+  </tr>  </tr>
+      <tr>
+    <th><b>CASHADVANCETRX</b></th>
+    <td>Jumlah Transaksi yang dilakukan dengan "Cash in Advanced.</td>
+    <td>Int64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>PURCHASES_TRX</b></th>
+    <td>Jumlah transaksi pembelian yang dilakukan.</td>
+    <td>Int64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>CREDIT_LIMIT</b></th>
+    <td>Limit Kartu Kredit untuk pengguna.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>PAYMENTS</b></th>
+    <td>Jumlah Pembayaran yang dilakukan oleh pengguna.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>MINIMUM_PAYMENTS</b></th>
+    <td>Jumlah minimum pembayaran yang dilakukan oleh pengguna.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>PRCFULLPAYMENT</b></th>
+    <td>Persentase pembayaran penuh yang dibayarkan oleh pengguna.</td>
+    <td>Float64</td>
+  </tr>
+    </tr>
+      <tr>
+    <th><b>TENURE </b></th>
+    <td>Jangka waktu layanan kartu kredit untuk pengguna.</td>
+    <td>Int64</td>
+  </tr>
+</table>
+
+<p>Sumber Data : <a href="https://www.kaggle.com/datasets/arjunbhasin2013/ccdata">Klik disini</a></p>
+<p>Data Awal Terdiri dari : 8950 Baris × 18 Kolum</p>
