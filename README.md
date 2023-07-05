@@ -5,7 +5,7 @@ Final Project
 ## **Group Sigma Profile** 
 ----
 1. Andika Darmawan - bisnisandikadarmawan@gmail.com | [LinkedIn](https://www.linkedin.com/in/andika-d-746414214/) | [GitHub](https://github.com/FrancisDarma)
-2. Gede Sariasa - sariasa14@gmail.com | [LinkedIn](https://www.linkedin.com/in/gede-sariasa-b5a77a134/) | [GitHub](https://github.com/HerdiansyahPP)
+2. Gede Sariasa - sariasa14@gmail.com | [LinkedIn](https://www.linkedin.com/in/gede-sariasa-b5a77a134/) | [GitHub](https://github.com/sariasa14)
 3. Adha Ozy Prima Dewangga - adaozy81@gmail.com | [LinkedIn](https://www.linkedin.com/in/adhaozyprimadewangga/) | [GitHub](https://github.com/Markenji?tab=repositories)
 
 
