@@ -274,20 +274,20 @@ Faktor-faktor yang menjadi alasan pemilihan model Kmeans, yaitu:
 ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/6.png?raw=true)
 
 #### Barplot 
- - Perbandingan Pembayaran Penuh Setiap Cluster
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/a.png?raw=true)
+ - Perbandingan Pembayaran Penuh Setiap Cluster 
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/a.png?raw=true) <br>
   - Perbandingan Usage Setiap Cluster
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/b.png?raw=true)
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/b.png?raw=true) <br>
   - Perbandingan Credit Limit & Balance Setiap Cluster
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/c.png?raw=true)
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/c.png?raw=true) <br>
   - Rincian Penggunaan Kartu Kredit pada Customer 0
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/d.png?raw=true)
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/d.png?raw=true) <br>
   - Rincian Penggunaan Kartu Kredit pada Customer 1
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/e.png?raw=true)
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/e.png?raw=true) <br>
   - Rincian Penggunaan Kartu Kredit pada Customer 2
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/f.png?raw=true)
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/f.png?raw=true) <br>
   - Rincian Penggunaan Kartu Kredit pada Customer 3
-  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/g.png?raw=true)
+  ![alt text](https://github.com/PurwadhikaDev/SigmaGroup_JC_DS_OL_09_FinalProject/blob/main/Image/g.png?raw=true) <br>
 
 
 
